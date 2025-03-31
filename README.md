@@ -15,4 +15,5 @@ The number and percentage of employees who are “on service”?
 The number and percentage of employees who are need to be “laid-off”?
 The distance of of employees from work to home?
 
-
+##Dashboard
+<a href="https://github.com/AngelinePearl/Data-Analytics-Dashboard/blob/main/hr%20dasboard.png">Dashboard</a>
